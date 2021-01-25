@@ -1,0 +1,13 @@
+# You can use this file to install all necessary libraries to run the jupyter notebook that contains the analysis
+#
+# You can just download this file and use the command python -m pip install requirements.txt
+#
+# I will also not specify any version, because as of the time I am writing this all packages of 
+# the below libraries should work to run the notebook, as long as you are using any python 3.x
+#
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+notebook
